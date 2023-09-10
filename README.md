@@ -4,7 +4,7 @@
 
 Fun Dice Game is a simple and entertaining web-based game that uses dice. It's built using HTML, CSS, and JavaScript and offers a fun and interactive experience for players of all ages. Roll the dice and see who gets the highest score!
 
-## Features
+## Features.
 
 - **Dice Rolling**: Roll the dice and see the outcome.
 - **Player Scores**: Keep track of each player's score.
